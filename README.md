@@ -57,6 +57,7 @@ How to use it on your favorite command line::
 	Usage: docker run feupinfolab/yake:latest [OPTIONS]
 
 	Options:
+	-ti, --text_input TEXT          Input text, SURROUNDED by single quotes(')
 	-i, --input_file TEXT           Input file  [required]
 	-l, --language TEXT             Language
 	-n, --ngram-size INTEGER        Max size of the ngram.
