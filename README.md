@@ -5,6 +5,14 @@ Original credits go to the authors below!!
 
 **We did not build YAKE!** it but only packaged it into a Docker image. A copy of the original README from the LIAAD [GitHub repository](https://github.com/LIAAD/yake) is shown below. See the original library repository at: https://github.com/LIAAD/yake
 
+## Running Yake via Docker:
+
+```bash
+docker run feupinfolab/yake:latest -ti "A text to extract keywords from"
+```
+
+(more options available, check below).
+
 
 Yet Another Keyword Extractor (Yake)
 -------------
