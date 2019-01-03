@@ -3,7 +3,7 @@ Dockerfile for building an image of the [LIAAD/yake](https://github.com/LIAAD/ya
 
 Original credits go to the authors below!!
 
-**We did not build YAKE!** it but only packaged it into a Docker image. A copy of the original README from the LIAAD [GitHub repository](https://github.com/LIAAD/yake) is shown below. See the original library repository at: https://github.com/LIAAD/yake
+**We did not build YAKE!** but only packaged it into a Docker image. A copy of the original README from the LIAAD [GitHub repository](https://github.com/LIAAD/yake) is shown below. See the original library repository at: https://github.com/LIAAD/yake
 
 ## Running Yake via Docker:
 
